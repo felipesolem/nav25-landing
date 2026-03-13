@@ -12,7 +12,7 @@ Landing page profesional para promocionar el **Nav25**, un frame FPV 100% colomb
 - **Tema Cyberpunk Racing** con paleta de colores naranja neón (#FF5C00)
 - **Efectos glassmorphism** y sombras con glow
 - **Animaciones CSS** suaves y profesionales
-- **Preloader animado** con CSS puro (sin GIF pesado)
+- **Preloader animado** con CSS puro
 - **Diseño responsive** optimizado para móvil, tablet y desktop
 
 ### Funcionalidades
