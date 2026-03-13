@@ -1,17 +1,3 @@
-// Preloader functionality
-window.addEventListener('load', () => {
-	const preloader = document.getElementById('preloader');
-	
-	// Fade out preloader after 2.5 seconds
-	setTimeout(() => {
-		preloader.classList.add('fade-out');
-		
-		// Remove preloader from DOM after fade out animation
-		setTimeout(() => {
-			preloader.style.display = 'none';
-		}, 500);
-	}, 2500);
-});
 
 // Hamburger menu functionality
 const hamburger = document.querySelector('.header .nav-bar .nav-list .hamburger');
